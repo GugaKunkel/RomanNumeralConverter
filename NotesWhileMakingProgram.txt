@@ -1,0 +1,11 @@
+1. Assign a value to each possible letter. Then look for conditions where the value of one to the right is greater than the other.
+
+2. For decimal to Roman numeral do it like converting to binary.
+
+3. You will want to go through each letter if the story and compare it to the right neighbor. If the right neighbor is greater, you will subtract the left value from the right then add that value. Remember to increment by two.
+
+4. Before you can use that algorithm on the string. You will need to make a function to make sure the string is valid.
+
+5. Using a regex can be helpful for verifying that the string is valid
+
+Time Spent on the Challenge: 4 hours
